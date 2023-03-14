@@ -15,10 +15,11 @@
    static final String FILE_ROOT_RES  = new File("").getAbsolutePath() + "/res/"; 
    this is original language file path
  
+
  3.TRANSLATE_BASE_URL = "https://translation.googleapis.com/language/translate/v2?key=";
  key is Google translate API key, Any Google account can apply for a key for free and use it for one year (although restricted but sufficient for personal use)
  API here https://developers.google.com/apis-explorer
- 
+
  4. Run code and get the language xml in FILE_ROOT_RES
  
  
